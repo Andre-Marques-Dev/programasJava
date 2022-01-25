@@ -1,0 +1,3 @@
+module ProgramasJava {
+	exports java;
+}
